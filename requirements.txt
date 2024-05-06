@@ -1,0 +1,9 @@
+Flask-Cors==4.0.1
+numpy==1.26.4
+pandas==2.2.2
+pyarrow==16.0.0
+scikit-learn==1.4.2
+requests==2.31.0
+Flask==3.0.3
+gunicorn
+Werkzeug==3.0.3
